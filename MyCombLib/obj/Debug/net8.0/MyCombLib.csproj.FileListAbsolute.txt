@@ -1,0 +1,11 @@
+D:\Projects\Comb\IZ10\MyCombLib\bin\Debug\net8.0\MyCombLib.deps.json
+D:\Projects\Comb\IZ10\MyCombLib\bin\Debug\net8.0\MyCombLib.dll
+D:\Projects\Comb\IZ10\MyCombLib\bin\Debug\net8.0\MyCombLib.pdb
+D:\Projects\Comb\IZ10\MyCombLib\obj\Debug\net8.0\MyCombLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Comb\IZ10\MyCombLib\obj\Debug\net8.0\MyCombLib.AssemblyInfoInputs.cache
+D:\Projects\Comb\IZ10\MyCombLib\obj\Debug\net8.0\MyCombLib.AssemblyInfo.cs
+D:\Projects\Comb\IZ10\MyCombLib\obj\Debug\net8.0\MyCombLib.csproj.CoreCompileInputs.cache
+D:\Projects\Comb\IZ10\MyCombLib\obj\Debug\net8.0\MyCombLib.dll
+D:\Projects\Comb\IZ10\MyCombLib\obj\Debug\net8.0\refint\MyCombLib.dll
+D:\Projects\Comb\IZ10\MyCombLib\obj\Debug\net8.0\MyCombLib.pdb
+D:\Projects\Comb\IZ10\MyCombLib\obj\Debug\net8.0\ref\MyCombLib.dll
